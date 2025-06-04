@@ -1,0 +1,4 @@
+
+# Documen
+
+aws eks --region <Region> update-kubeconfig --name <clusterName>
